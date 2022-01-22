@@ -1,6 +1,6 @@
 # Recommendor System
 
-Below is the list of the algorithms used to implementrecommendor systems which have been implemented which include Collaborative filtering, Singular Value Decomposition and CUR.
+Below is the list of the algorithms used to implement recommendor systems which have been implemented which include Collaborative filtering, Singular Value Decomposition and CUR.
 
 ## Functionality Implemented
 
